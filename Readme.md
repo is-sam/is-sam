@@ -74,3 +74,5 @@ Over the past decade, my journey in software development has been driven by a de
       </picture>
    </a>
 </p>
+
+![Claude Code Activity](./stats.svg)
