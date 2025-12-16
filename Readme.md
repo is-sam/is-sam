@@ -75,4 +75,4 @@ Over the past decade, my journey in software development has been driven by a de
    </a>
 </p>
 
-![Claude Code Activity](https://gist.githubusercontent.com/is-sam/3eb6467a27646935c414f0ffea0539d8/raw/stats.svg)
+![Claude Stats](https://claude-github-stats.vercel.app/api/w/pub_f7061ff40e639175.svg)
