@@ -25,4 +25,6 @@
 </p>
 
 ### Claude Code Usage Heatmap
+Want this heatmap on your profile? Check out [ccgh-stats](https://github.com/is-sam/ccgh-stats)
+
 ![Claude Stats](https://ccgh-stats.vercel.app/api/w/pub_1129e48dac90842a.svg)
