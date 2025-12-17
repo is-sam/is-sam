@@ -1,6 +1,7 @@
-## Hey, I'm Issam
+## Hey, I'm Issam 👋
 
 Software engineer & builder based in Ottawa, Canada.
+
 Living on the bleeding edge of web & AI.
 
 ![Claude Stats](https://ccgh-stats.vercel.app/api/w/pub_1129e48dac90842a.svg)
