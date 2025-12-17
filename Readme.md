@@ -25,4 +25,4 @@
 </p>
 
 ### Claude Code Usage Heatmap
-![Claude Stats](https://ccgh-stats.vercel.app/api/w/pub_f7061ff40e639175.svg)
+![Claude Stats](https://ccgh-stats.vercel.app/api/w/pub_1129e48dac90842a.svg)
